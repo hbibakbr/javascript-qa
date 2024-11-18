@@ -1,0 +1,14 @@
+{
+  "name": "sanber-javascript",
+  "version": "1.0.0",
+  "description": "javascript for quality assurance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "habib",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
