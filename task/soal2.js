@@ -37,13 +37,19 @@ let productBin = {
 
 function hitungTotalQuantity(productCode) {
     let totalQuantity = 0; // Set default value
+    let found = false;
 
     // Iterasi melalui array data
     productBin.data.forEach(item => {
         if (item.productCode === productCode) {
-            totalQuantity += item.quantity; 
+            totalQuantity += item.quantity;
+            found = true;
         }
     });
+
+    if (!found) {
+        return `ProductCode ${productCode} tidak ditemukan dalam data.`;
+    }
 
     return totalQuantity;
 }
