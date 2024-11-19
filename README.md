@@ -32,8 +32,8 @@ link: https://nodejs.org/en/download/
 This is a running code screenshots
 
 ### soal1.js
-[![soal 1](demo-img.jpg)]
+[![soal 1](screenshots/soal1.jpg)]
 
 ### soal2.js
-[![soal 2](demo-img.jpg)]
+[![soal 2](screenshots/soal2.jpg)]
 
