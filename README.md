@@ -4,12 +4,19 @@ Repository for **Tugas Pekanan** Sanbercode Quality Assurance Automation Bootcam
 
 ## Folder Structured
 ├── node_modules
+|
 ├── task
+|   |
 │   ├── soal1.js
+|   |
 │   ├── soal2.js
+|   |
 ├── package-lock.json
+|
 ├── package.json
+|
 ├── .gitignore
+|
 └── README.md
 
 ## Installation and Setup
