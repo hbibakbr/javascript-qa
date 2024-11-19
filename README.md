@@ -35,4 +35,4 @@ This is a running code screenshots
 ![soal 1](screenshots/soal1.jpg)
 
 ### soal2.js
-![soal 2](demo-img.jpg)
+![soal 2](screenshots/soal2.jpg)
