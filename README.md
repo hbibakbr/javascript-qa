@@ -2,23 +2,6 @@
 
 Repository for **Tugas Pekanan** Sanbercode Quality Assurance Automation Bootcamp. This is a practice for running code with javascript language. **Author: Habib Akbar**
 
-## Folder Structured
-├── node_modules
-|
-├── task
-|   |
-│   ├── soal1.js
-|   |
-│   ├── soal2.js
-|   |
-├── package-lock.json
-|
-├── package.json
-|
-├── .gitignore
-|
-└── README.md
-
 ## Installation and Setup
 To set up and run this project locally, follow these steps:
 note: Make sure your computer has node.js installed
